@@ -1,4 +1,4 @@
 resource "aws_instance" "testserwer5" {
-    ami ="ami-0b2ac948e23c57071"
+    ami ="ami-01342111f883d5e4e"
     instance_type = var.newec2
 }
